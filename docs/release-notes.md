@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Upgrades
+
+* ⬆️ Bump Typer min version to `0.26.1`. PR [#207](https://github.com/tiangolo/library-skills/pull/207) by [@YuriiMotov](https://github.com/YuriiMotov).
+
 ### Docs
 
 * 🐛 Use buttons for Termynal controls. PR [#188](https://github.com/tiangolo/library-skills/pull/188) by [@tiangolo](https://github.com/tiangolo).
