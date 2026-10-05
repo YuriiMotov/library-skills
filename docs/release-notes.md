@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Upgrades
+
+* ⬆️ Bump Typer min version to `0.26.1`. PR [#207](https://github.com/tiangolo/library-skills/pull/207) by [@YuriiMotov](https://github.com/YuriiMotov).
+
 ### Docs
 
 * 🐛 Use buttons for Termynal controls. PR [#188](https://github.com/tiangolo/library-skills/pull/188) by [@tiangolo](https://github.com/tiangolo).
@@ -10,6 +14,9 @@
 
 ### Internal
 
+* 🔧 Set Dependabot schedule interval to "monthly". PR [#162](https://github.com/tiangolo/library-skills/pull/162) by [@YuriiMotov](https://github.com/YuriiMotov).
+* 👷 Migrate automatic labels to Latest Changes. PR [#205](https://github.com/tiangolo/library-skills/pull/205) by [@tiangolo](https://github.com/tiangolo).
+* 👷 Remove legacy label check. PR [#203](https://github.com/tiangolo/library-skills/pull/203) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Set Dependabot schedule interval to "monthly". PR [#201](https://github.com/tiangolo/library-skills/pull/201) by [@tiangolo](https://github.com/tiangolo).
 * ⬆ Bump rich-toolkit from 0.20.1 to 0.20.3. PR [#183](https://github.com/tiangolo/library-skills/pull/183) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * ⬆ Bump cryptography from 48.0.1 to 50.0.0. PR [#189](https://github.com/tiangolo/library-skills/pull/189) by [@dependabot[bot]](https://github.com/apps/dependabot).

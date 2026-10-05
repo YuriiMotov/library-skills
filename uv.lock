@@ -636,7 +636,7 @@ requires-dist = [
     { name = "pyyaml", specifier = ">=5.3.1" },
     { name = "rich-toolkit", specifier = ">=0.20.1" },
     { name = "tomli", marker = "python_full_version < '3.11'", specifier = ">=2.4.1" },
-    { name = "typer", specifier = ">=0.24.2" },
+    { name = "typer", specifier = ">=0.26.1" },
 ]
 
 [package.metadata.requires-dev]
