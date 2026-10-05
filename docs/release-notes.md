@@ -2,6 +2,10 @@
 
 ## Latest Changes
 
+### Upgrades
+
+* ⬆️ Bump Typer min version to `0.26.1`. PR [#207](https://github.com/tiangolo/library-skills/pull/207) by [@YuriiMotov](https://github.com/YuriiMotov).
+
 ### Docs
 
 * 🐛 Use buttons for Termynal controls. PR [#188](https://github.com/tiangolo/library-skills/pull/188) by [@tiangolo](https://github.com/tiangolo).
@@ -10,6 +14,8 @@
 
 ### Internal
 
+* 👷 Add GH workflow to bump pre-commit hook versions. PR [#161](https://github.com/tiangolo/library-skills/pull/161) by [@YuriiMotov](https://github.com/YuriiMotov).
+* 🔧 Set Dependabot schedule interval to "monthly". PR [#162](https://github.com/tiangolo/library-skills/pull/162) by [@YuriiMotov](https://github.com/YuriiMotov).
 * 👷 Migrate automatic labels to Latest Changes. PR [#205](https://github.com/tiangolo/library-skills/pull/205) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Remove legacy label check. PR [#203](https://github.com/tiangolo/library-skills/pull/203) by [@tiangolo](https://github.com/tiangolo).
 * 🔧 Set Dependabot schedule interval to "monthly". PR [#201](https://github.com/tiangolo/library-skills/pull/201) by [@tiangolo](https://github.com/tiangolo).
